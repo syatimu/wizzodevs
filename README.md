@@ -1,2 +1,2 @@
 # wizzodevs
-Live, Live
+Live, Learn
